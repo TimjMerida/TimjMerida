@@ -9,7 +9,7 @@
   - [osTicket: osTicket installation](https://github.com/TimjMerida/osTicket-pt2-Installing-osTicket)
   - [osTicket: Post installation setup](https://github.com/TimjMerida/osTicket-pt3-Post-instillation-setup)
   - [osTicket: Ticket lifecylce](https://github.com/TimjMerida/osTicket-Pt4-Ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directrory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TimjMerida/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TimjMerida/Network-Security-Groups-and-Inspecting-Network-Protocols)
 
