@@ -5,9 +5,10 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/TimjMerida/osTicket-pt1-VM-setup-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TimjMerida/osTicket-pt3-Ticket-Lifecycle-Examples)
+  - [osTicket: Virtual Machine Setup](https://github.com/TimjMerida/osTicket-pt1-VM-setup)
+  - [osTicket: osTicket installation](https://github.com/TimjMerida/osTicket-pt2-Installing-osTicket)
+  - [osTicket: Post installation setup](https://github.com/TimjMerida/osTicket-pt3-Post-instillation-setup)
+  - [osTicket: Ticket lifecylce](https://github.com/TimjMerida/osTicket-Pt4-Ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TimjMerida/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TimjMerida/Network-Security-Groups-and-Inspecting-Network-Protocols)
